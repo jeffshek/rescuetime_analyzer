@@ -4,6 +4,15 @@ I made this because while RescueTime is amazing, I wanted more features out of t
 # Features
 ## Personal Database History
 
-## Trends
 
-## Easier Exporting to CSV, Daily Reports, etc.
+## Trends
+    1. Spot negative patterns
+    2. etc.
+
+## Easier Exporting
+    1. CSV
+    2. Pandas
+    3. etc.
+
+## Additional Things to Add
+    Tests
