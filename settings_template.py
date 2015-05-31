@@ -1,4 +1,4 @@
-# Local Settings that are on .gitignore and will not be tracked
+# Use this template and recreate settings.py for own user credentials
 
 ####
 # API Keys
